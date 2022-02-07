@@ -10,8 +10,7 @@ public class Main {
         Point b = new Point(-2, 7);
 
 
-        double x_coordinate = a.getX();
-        double y_coordinate = a.getY();
+
 
         b.FlipVertical();
 
